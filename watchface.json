@@ -1,0 +1,56 @@
+{
+    "Background": {
+        "Image": {
+            "ImageIndex": 0,
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Ones": {
+                "ImageIndex": 1000,
+                "ImagesCount": 10,
+                "X": 54,
+                "Y": 73
+            },
+            "Tens": {
+                "ImageIndex": 1000,
+                "ImagesCount": 10,
+                "X": 29,
+                "Y": 73
+            }
+        },
+        "Minutes": {
+            "Ones": {
+                "ImageIndex": 1000,
+                "ImagesCount": 10,
+                "X": 123,
+                "Y": 73
+            },
+            "Tens": {
+                "ImageIndex": 1000,
+                "ImagesCount": 10,
+                "X": 98,
+                "Y": 73
+            }
+        }
+    },
+    "Status": {
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 76,
+                "Y": 73
+            },
+            "ImageIndexOff": 2000
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 76,
+            "Y": 73,
+            "ImageIndex": 3000,
+            "ImagesCount": 6
+        }
+    }
+}
